@@ -8,6 +8,7 @@ public class print {
 
 		System.out.println("Hello branch");
 		System.out.println("Hot fix");
+		System.out.println("added in gittest2");
 
 	}
 
